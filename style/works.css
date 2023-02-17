@@ -1,0 +1,18 @@
+/* Imports */
+@import './main.css';
+@import './reset.css';
+
+.works-container{
+    max-width: 682px;
+    margin: 0 auto;
+}
+
+.works__section-header{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+
+    padding-bottom: 25px;
+}
